@@ -16,3 +16,8 @@ Currently working on :
     // Learn more about : 
     1. Balanced Binary Abstract Scenes 
     2. Abstract-Scenes
+
+
+Next-Steps
+--> Will worry about the model later
+--> Have to setup the data-pipeline or the dataloader in pytorch that gives :: {image, question, answer} dict.
