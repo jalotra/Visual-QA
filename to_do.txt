@@ -1,0 +1,18 @@
+Current Have to think and do 
+
+1. To understand the dataset
+    Namely Annotations, Input-Questions, Input_Images, Complementary-Pairs-List 
+
+
+
+Currently working on : 
+1. Downloading the dataset
+    in ./Annotations -->  Answers for the task
+    in ./Input-Questions --> Input-QUestions for the task
+    in ./Input-Images --> Input-Images for the task 
+    in ./Complementary-Pairs-List --> For each input image, this provides a complimentary image with a different answer and image.
+
+
+    // Learn more about : 
+    1. Balanced Binary Abstract Scenes 
+    2. Abstract-Scenes
