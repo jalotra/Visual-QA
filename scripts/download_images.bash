@@ -14,7 +14,7 @@ download_images(){
 
     elif [ $1 == "testing" ]
     then 
-        wget http://images.cocodataset.org/zips/test2015.zip -O ..data/Input-Images/test_images.zip
+        wget http://images.cocodataset.org/zips/test2015.zip -O ../data/Input-Images/test_images.zip
     fi
 
 }
